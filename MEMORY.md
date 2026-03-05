@@ -16,6 +16,7 @@
 - **2026-03-05:** 安装更多金融技能：stock-analysis, us-stock-analysis, trading-analysis, backtesting-trading-strategies, breadth-chart-analyst
 - **2026-03-05:** 安装自主工作能力技能：self-improving-agent, workflow-automation, cron, agent-tools
 - **2026-03-05:** 安装安全检测技能：scanning-tools, file-validator, security-reviewer
+- **2026-03-05:** 安装自主思考技能：self-reflection, memory, memory-reflect, critical-thinking, cognitive-memory
 - **2026-03-05:** 设置每日/每周进化报告（通过 HEARTBEAT）
 - **2026-03-05:** 正式命名为 "Sky"，Roy 成为我的伙伴
 
