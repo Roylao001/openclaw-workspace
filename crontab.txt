@@ -1,0 +1,3 @@
+# Sky Daily & Weekly Evolution Reports
+30 8 * * * /Users/roylao/.openclaw/workspace/scripts/daily-report.sh >> /Users/roylao/.openclaw/workspace/logs/cron.log 2>&1
+30 8 * * 1 /Users/roylao/.openclaw/workspace/scripts/weekly-report.sh >> /Users/roylao/.openclaw/workspace/logs/cron.log 2>&1
